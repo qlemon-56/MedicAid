@@ -15,6 +15,9 @@ My medical passport is simple and easy to use. The UI is very modern and is user
 ## Overall Experience 
 This was a fun project to make for GIT INIT 2023. It really improved my design skills, and deepened my knowledge of apis. Bravo was not my first option, but along the way I experimented with python guis such as customtkinter, and tkdesigner which sadly i could not make use of in time. It was overall a great learning experience.
 
+## Links:
+https://www.figma.com/file/wTGSOcNX9fLjCPWpm1ACSQ/Untitled?node-id=0%3A1&t=s7Fo28XUoOcMDgOe-1
+
 ### Powered by:
 - Bravo Studio 
 * Airtable
